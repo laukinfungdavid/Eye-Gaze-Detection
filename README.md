@@ -1,6 +1,6 @@
 # Eye Gaze Detection using CNN
 
-<p>Eye gaze shows the direction that a person is looking at. From everyday conversation to psychological research, eye gaze is an important index showing the attention level of human. In this project, we explore how to make use of a machine learning approach to detection the eye gaze, which is represented by 7 directions including upper left, upper right, left, right, lower left, lower right and centre. After that, we try to use the machine learning model to detect some eye disease such as esotropia and hypotropia. </p>
+<p>Eye gaze shows the direction that a person is looking at. From everyday conversation to psychological research, eye gaze is an important index showing the attention level of human. In this project, we explore how to make use of a machine learning approach to detection the eye gaze, which is represented by 7 directions including upper left, upper right, left, right, lower left, lower right and centre. After that, we try to use the machine learning model to detect some eye diseases such as esotropia and hypotropia. </p>
 <p><strong>For more details, please take a look at the report and jupyter notebook.</strong></p>
 
 <h2>ACKNOWLEDGEMENTS</h2>
