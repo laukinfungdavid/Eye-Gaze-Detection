@@ -1,4 +1,7 @@
-# Eye Gaze Detection
+# Eye Gaze Detection using CNN
+
+<h2>Project Description</h2>
+<p>Eye gaze shows the direction that a person is looking at. From everyday conversation to psychological research, eye gaze is an important index showing the attention level of human. In the following, we explore how to make use of a machine learning approach to detection the eye gaze, which is represented by 7 directions including upper left, upper right, left, right, lower left, lower right and centre. After that, we try to use the machine learning model to detect some eye disease such as esotropia and hypotropia. </p>
 
 <h2>ACKNOWLEDGEMENTS</h2>
 Thank Dr. Corneliu Florea for “The Eye-Chimera” database. 
@@ -32,3 +35,12 @@ Thank Dr. Corneliu Florea for “The Eye-Chimera” database.
 <p>[13] MERDLER, Ilan, et al. Strabismus and mental disorders among Israeli adolescents. Journal of American Association for Pediatric Ophthalmology and Strabismus {JAAPOS}, 2017, 21.3: 185-189. </p>
  
 <p>[14] Department of Health, HKSAR. Health Information: Eyes / Vision, retrieved from: https://www.studenthealth.gov.hk/english/health/health_ev/health_ev_squ.htm</p>
+
+<p>[15] L. Florea, C. Florea, R. Vranceanu, C. Vertan "Can Your Eyes Tell Me How You Think? A Gaze
+Directed Estimation of the Mental Activity" In Proc BMVC 2013, United Kingdom.</p>
+
+<p>[16] R. Vranceanu, C. Florea, L. Florea, C. Vertan "NLP EAC Recognition by Component Separation in
+the Eye Region", 15th International Conference on Computer Analysis of Images and Patterns
+CAIP 2013, York, UK, 27-29 Aug. 2013, LNCS vol. 8048, Eds. Wilson, R.; Hancock, E.; Bors, A.;
+Smith, W., pp. 225-232, Springer Verlag, Berlin Heidelberg 2013, ISSN 0302-9743, ISBN 978-3-
+642-40246-3. </p>
